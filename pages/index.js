@@ -16,7 +16,7 @@ export default function Home() {
           
         </p>
       
-      <form><input id = "id" type="text" name="input"></form>
+      <form><input id = "id" type="text" name="input"/></form>
      <form><input id="button" type="button" value="Generate" onclick="test();"/></form>
       </main>
 
